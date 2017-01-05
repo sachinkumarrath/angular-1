@@ -1,0 +1,13 @@
+{
+  "name": "angular-1",
+  "version": "1.0.0",
+  "description": "created for sample angular program",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sachin rath",
+  "license": "ISC"
+}
